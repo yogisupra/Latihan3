@@ -2,9 +2,9 @@ rencana kontent
 - javascript
  * ES-6
  * framework javascript
-  ^ Angular
-  ^ React
+  ^Vue
+  ^React
 - PHP framewodk
- * Laravel 
+ * Laravel
 - interview
 - vlogs

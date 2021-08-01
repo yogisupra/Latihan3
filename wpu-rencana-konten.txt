@@ -1,0 +1,7 @@
+rencana kontent
+- javascript
+ * ES-6
+ * framework javascript
+- PHP framewodk
+- interview
+- vlogs

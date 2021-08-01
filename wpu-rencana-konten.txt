@@ -2,8 +2,9 @@ rencana kontent
 - javascript
  * ES-6
  * framework javascript
+  ^ Angular
+  ^ React
 - PHP framewodk
+ * Laravel 
 - interview
 - vlogs
-
-Struktur Data Dasar
